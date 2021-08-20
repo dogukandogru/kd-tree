@@ -1,0 +1,15 @@
+build-kdtree	pointsfile.txt
+display-tree
+insert	15	15
+display-tree
+display-points
+search	15	15
+search	200	500
+display-tree
+display-points
+find-min-x
+find-min-y
+find-max-x
+find-max-y
+quit
+
